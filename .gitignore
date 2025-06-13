@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Webpack
+dist/
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts.map
+
+# Jest
+jest-cache/
+coverage/
+
+# Tailwind CSS
+tailwind.css.map
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettierignore
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Editor & OS files
+.vscode/
